@@ -1,0 +1,21 @@
+[submodule "aiscripts/0.14.1"]
+	path = aiscripts/0.14.1
+	url = https://github.com/aiscript-dev/aiscript.git
+[submodule "aiscripts/0.15.0"]
+	path = aiscripts/0.15.0
+	url = https://github.com/aiscript-dev/aiscript.git
+[submodule "aiscripts/0.16.0"]
+	path = aiscripts/0.16.0
+	url = https://github.com/aiscript-dev/aiscript.git
+[submodule "aiscripts/0.17.0"]
+	path = aiscripts/0.17.0
+	url = https://github.com/aiscript-dev/aiscript.git
+[submodule "aiscripts/0.18.0"]
+	path = aiscripts/0.18.0
+	url = https://github.com/aiscript-dev/aiscript.git
+[submodule "aiscripts/0.19.0"]
+	path = aiscripts/0.19.0
+	url = https://github.com/aiscript-dev/aiscript.git
+[submodule "aiscripts/develop"]
+	path = aiscripts/develop
+	url = https://github.com/aiscript-dev/aiscript.git
