@@ -14,7 +14,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import { useRouter, useRoute } from 'vue-router'
-import { versions, latest } from "./MainArea.vue";
+import { versions, latest } from "@/versions/versions.ts";
 import MenuButton from "@common/MenuButton.vue";
 
 const router = useRouter();

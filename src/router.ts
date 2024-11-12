@@ -1,5 +1,6 @@
 import { createRouter, createWebHashHistory } from 'vue-router';
-import MainArea, { latest } from "./MainArea.vue";
+import MainArea from "./MainArea.vue";
+import { latest } from '@/versions/versions.ts';
 
 export const router = createRouter({
 	history: createWebHashHistory(),

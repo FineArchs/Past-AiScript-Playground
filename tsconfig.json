@@ -20,5 +20,6 @@
     }
   },
   "compileOnSave": false,
-  "include": ["./src/**/*"]
+  "include": ["./src/**/*"],
+  "exclude": ["./src/template"]
 }
